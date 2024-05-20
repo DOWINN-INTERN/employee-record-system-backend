@@ -1,0 +1,11 @@
+{
+  "entryPoints": ["src"],
+  "out": "docs",
+  "includeDeclarations": true,
+  "excludeExternals": true,
+  "excludeNotDocumented": false,
+  "excludePrivate": false,
+  "excludeProtected": false,
+  "includeVersion": true,
+  "tsconfig": "tsconfig.json"
+}
